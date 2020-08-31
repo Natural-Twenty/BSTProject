@@ -6,7 +6,7 @@ This assignment mainly requires the implementation of a Binary Search Tree to st
 in alphabetical order. The linked lists sorts the files that contain these words based on tf-idf that is calculated. This simulations a basic search engine where
 you can search for key words and the engine will return the most relevant file that contains the key word(s).
 
-The main aims of the assignment were to implement a data structure that can appropriately store, sort and perform operations on the data.
+The main aims of the assignment were to implement data structures that can appropriately store, sort and perform operations on the data.
 Additionally, an algorithm is required to return the most relevant file according to key word inputs.
 
 There are also applications of I/O with files and normalisation of words.
